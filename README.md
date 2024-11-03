@@ -38,7 +38,6 @@
 ✅ [خرید فوری فیلتر شکن](https://t.me/v2makers_bot)  
 
 همین حالا با کلیک بر روی لینک‌ها، به راحتی به سرویس مورد نظر خود دسترسی پیدا کنید.
-Here's a rewritten version of your text:
 
 ---
 
