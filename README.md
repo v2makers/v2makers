@@ -3,7 +3,7 @@
 ارائه‌دهنده‌ی فیلترشکن‌های پرسرعت و امن با برنامه‌های محبوب مانند V2ray، V2rayNG، NapsterneTV، Hiddifynext، V2box، Foxray، Nekonbox، Sing-box، Streisand، Fair، OpenVPN، WireGuard و دیگر برنامه‌های معتبر و شناخته‌شده! این فیلترشکن‌ها با کانفیگ‌های به‌روز و سرعت بالا، تجربه‌ای ایمن و بدون محدودیت را برای شما فراهم می‌کنند.
 
 <p align="center">
-  <a href="https://v2makers.github.io/v2makers/" target="_blank">
+  <a href="https://t.me/v2makers_admin" target="_blank">
     <img src="./media/support.png" alt="Image">
   </a>
 </p>
